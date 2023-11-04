@@ -8,6 +8,19 @@ h1:focus {
     outline: none;
 }
 
+
+button.round {
+    background-color: #48abe0;
+    color: white;
+    border: none;
+    padding: 5px;
+    font-size: 31px;
+    height: 130px;
+    width: 130px;
+    box-shadow: 0 2px 4px darkslategray;
+    border-radius: 50%;
+  }
+
 a, .btn-link {
     color: #0077cc;
 }
